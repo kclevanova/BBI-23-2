@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSportsmen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sportsmen>
+    <LastName>Смирнов</LastName>
+    <Club>Динамо</Club>
+    <FirstAttempt>6.6</FirstAttempt>
+    <SecondAttempt>6.9</SecondAttempt>
+    <Disqualified>false</Disqualified>
+  </Sportsmen>
+  <Sportsmen>
+    <LastName>Сидоров</LastName>
+    <Club>Локомотив</Club>
+    <FirstAttempt>6.5</FirstAttempt>
+    <SecondAttempt>6.4</SecondAttempt>
+    <Disqualified>false</Disqualified>
+  </Sportsmen>
+  <Sportsmen>
+    <LastName>Петров</LastName>
+    <Club>ЦСК</Club>
+    <FirstAttempt>6</FirstAttempt>
+    <SecondAttempt>5.8</SecondAttempt>
+    <Disqualified>false</Disqualified>
+  </Sportsmen>
+  <Sportsmen>
+    <LastName>Кузнецов</LastName>
+    <Club>Торпедо</Club>
+    <FirstAttempt>2.1</FirstAttempt>
+    <SecondAttempt>3.4</SecondAttempt>
+    <Disqualified>false</Disqualified>
+  </Sportsmen>
+  <Sportsmen>
+    <LastName>Иванов</LastName>
+    <Club>Спартак</Club>
+    <FirstAttempt>0</FirstAttempt>
+    <SecondAttempt>0</SecondAttempt>
+    <Disqualified>true</Disqualified>
+  </Sportsmen>
+</ArrayOfSportsmen>

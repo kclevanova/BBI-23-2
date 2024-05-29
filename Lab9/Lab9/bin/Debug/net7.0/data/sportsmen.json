@@ -1,0 +1,42 @@
+[
+  {
+    "TotalDistance": 13.5,
+    "LastName": "Смирнов",
+    "Club": "Динамо",
+    "FirstAttempt": 6.6,
+    "SecondAttempt": 6.9,
+    "Disqualified": false
+  },
+  {
+    "TotalDistance": 12.9,
+    "LastName": "Сидоров",
+    "Club": "Локомотив",
+    "FirstAttempt": 6.5,
+    "SecondAttempt": 6.4,
+    "Disqualified": false
+  },
+  {
+    "TotalDistance": 11.8,
+    "LastName": "Петров",
+    "Club": "ЦСК",
+    "FirstAttempt": 6.0,
+    "SecondAttempt": 5.8,
+    "Disqualified": false
+  },
+  {
+    "TotalDistance": 5.5,
+    "LastName": "Кузнецов",
+    "Club": "Торпедо",
+    "FirstAttempt": 2.1,
+    "SecondAttempt": 3.4,
+    "Disqualified": false
+  },
+  {
+    "TotalDistance": 0.0,
+    "LastName": "Иванов",
+    "Club": "Спартак",
+    "FirstAttempt": 0.0,
+    "SecondAttempt": 0.0,
+    "Disqualified": true
+  }
+]

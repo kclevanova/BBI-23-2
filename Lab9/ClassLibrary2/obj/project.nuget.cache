@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "anJb7UrObCXGmI8pI3a5fEcAm/vQggwQ1D0XziGhn7UeUCtOmU4qYEDhq+vwzFXWncmD9P52aVzuu7iaASGDWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79060\\Source\\Repos\\Lab9\\ClassLibrary2\\ClassLibrary2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79060\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\79060\\.nuget\\packages\\protobuf-net\\3.2.30\\protobuf-net.3.2.30.nupkg.sha512",
+    "C:\\Users\\79060\\.nuget\\packages\\protobuf-net.core\\3.2.30\\protobuf-net.core.3.2.30.nupkg.sha512",
+    "C:\\Users\\79060\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
